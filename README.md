@@ -68,7 +68,3 @@ price_tracker/
   monitor.py       # Logika alertów
   demo_server.py   # Wbudowany sklep testowy (threading + http.server)
 ```
-
-## Licencja
-
-Kod demonstracyjny — do użycia w portfolio i wdrożeń u klienta.
