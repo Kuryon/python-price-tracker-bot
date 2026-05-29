@@ -1,0 +1,18 @@
+{
+  "poll_interval_seconds": 15,
+  "notification_channel": "discord",
+  "discord_webhook_url": "https://discord.com/api/webhooks/TWOJ_ID/TWOJ_TOKEN",
+  "telegram_bot_token": "",
+  "telegram_chat_id": "",
+  "database_path": "tracker_state.db",
+  "targets": [
+    {
+      "url": "https://example.com/produkt",
+      "name": "Przykładowy produkt",
+      "price_selector": ".price",
+      "target_price": 500.0,
+      "availability_selector": ".stock-status",
+      "availability_in_stock_text": "dostępny"
+    }
+  ]
+}
