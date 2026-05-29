@@ -1,6 +1,6 @@
 # Inteligentny Bot-Monitorujący (Price & Availability Tracker)
 
-Projekt portfolio freelancera — bot śledzący **zmiany cen** i **dostępność** na stronach WWW, z natychmiastowymi alertami na **Discord** (Embeds) lub **Telegram**.
+Bot śledzący **zmiany cen** i **dostępność** na stronach WWW, z natychmiastowymi alertami na **Discord** (Embeds) lub **Telegram**.
 
 ## Funkcje
 
